@@ -11,7 +11,7 @@ To execute the code, please download all the included files into a single direct
 
 - For Figure 5, Figure 6, and Table 2, run `matrixNS_realdata.R`.
 - For all other figures and tables, run the script whose name matches the corresponding figure or table number.
-- 
+
 **Note:** `matrixNS_supp_fig5.R` requires `matrixNS_fig3.R` to be run first.
 
 ## Working directory
