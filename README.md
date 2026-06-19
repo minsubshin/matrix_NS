@@ -7,7 +7,7 @@ This code is provided to reproduce the experimental results found in the main te
 
 ## Usage
 
-To execute the code, please download all the included files into a single directory. Then run the R script corresponding to the figure or table you wish to reproduce:
+To execute the code, please download and unzip all the included files into a single directory. Then run the R script corresponding to the figure or table you wish to reproduce:
 
 - For Figure 5, Figure 6, and Table 2, run `matrixNS_realdata.R`.
 - For all other figures and tables, run the script whose name matches the corresponding figure or table number.
